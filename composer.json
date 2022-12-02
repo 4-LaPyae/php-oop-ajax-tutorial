@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "app\\": "app",
+            "Draw\\": "facade_pattern/Draw",
+            "Shape\\": "facade_pattern/Shape",
+            "ShapeFacade\\": "facade_pattern/ShapeFacade"
+        }
+    }
+}
